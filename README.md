@@ -1,2 +1,2 @@
 # learn-github
-This repository is for learning GiHub
+This repository is to get started with GiHub. Happy Learning!
